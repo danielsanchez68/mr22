@@ -1,0 +1,68 @@
+[
+	{
+		"id": "1",
+		"nombre": "CPU",
+		"precio": 12345,
+		"stock": 77
+	},
+	{
+		"id": "3",
+		"nombre": "Mouse",
+		"precio": 70000,
+		"stock": 18
+	},
+	{
+		"id": "6",
+		"nombre": "Disco SSD",
+		"precio": 95000,
+		"stock": 25
+	},
+	{
+		"nombre": "Teclado",
+		"precio": 12345,
+		"stock": 321,
+		"id": "7"
+	},
+	{
+		"nombre": "PenDrive",
+		"precio": 7654,
+		"stock": 111,
+		"id": "8"
+	},
+	{
+		"nombre": "Parlantes",
+		"precio": 1122,
+		"stock": 765,
+		"id": "9"
+	},
+	{
+		"nombre": "Microfono",
+		"precio": 321,
+		"stock": 678,
+		"id": "10"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": 1234,
+		"stock": 77,
+		"id": "11"
+	},
+	{
+		"nombre": "Microfono2",
+		"precio": 321,
+		"stock": 678,
+		"id": "12"
+	},
+	{
+		"nombre": "Microfono2",
+		"precio": 321,
+		"stock": 678,
+		"id": "13"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": 1234,
+		"stock": 77,
+		"id": "14"
+	}
+]
