@@ -26,7 +26,7 @@ class Server {
         app.use('/api/productos', this.#routerProductos)
 
         const port = this.#port
-        const server = app.listen(port, () => console.log(`Servidor ApiRestful escuchando en http://localhost:${port}`))
+        const server = app.listen(port, () => console.log(`Servidor!!!! ApiRestful escuchando en http://localhost:${port}`))
         server.on('error', error => console.log(`Error en servidor ${error.message}`))
     }
 }
